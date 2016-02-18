@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	background-color: grey;
+}
+a {
+	color: white;
+}
+nav {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+em {
+	font-style: none;
+	font-weight: bold;
+}
+h1 {
+    font-size: 60px;
+}
+header {
+	background-image: url(../images/stars.jpg);
+	text-align: center;
+	color: white;
+	height: 200px;
+}
+main {
+	text-align: center;
+}
+img {
+	border-radius: 50%;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
